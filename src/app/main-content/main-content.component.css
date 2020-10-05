@@ -1,0 +1,169 @@
+.detailStyling{
+    font-weight: 700 !important;
+    font-size: 5vw;
+    padding-left: 9vw;
+    padding-top: 4vw;
+    color: #0D2331;
+}
+.imgStyling{
+    width: 30vw;
+    padding-top: 4vw;
+}
+.btn-styling{
+    width: 16vw;
+    font-size: 1.7vw;
+}
+.text-contentdecoration{
+    padding:2rem;
+    margin-top: 6vw;
+}
+.imgdecoration{
+    width: 30vw;
+    margin-top: 3vw;
+    border-radius: 2rem;
+}
+.nameDecrotion{
+    font-weight: 600;
+}
+.headingDecration{
+    font-weight: bold;
+    color: #4A82FA;
+    text-decoration: underline;
+}
+.progress{
+    height: 0.5rem !important;
+}
+.skillBar{
+    font-size: 1vw;
+ 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 0.7rem;
+}
+.imagestylingskill{
+    border-radius: 1.5rem;
+}
+.travo{
+    border-radius: 2rem ;
+    height: 20vw !important;
+    /* margin-right: 1rem; */
+   
+    
+}
+.carddecorationskill{
+    border: none !important;
+    margin-right: 2rem;
+  
+}
+.travo:hover{
+opacity: 0.5;
+}
+
+
+.overlay {
+    position: absolute; 
+    bottom: 5rem; 
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5); /* Black see-through */
+    color: #f1f1f1; 
+    width: 100%;
+    transition: .5s ease;
+    opacity:0;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+  }
+  .formCentering{
+    padding: 0vw 28vw;
+}
+  
+  .container:hover .overlay {
+    opacity: 1;
+  }
+  .inputStyling{
+      border: 2px soild #0D2331 !important;
+  }
+  .footerdecoration{
+      background-color:#0D2331;
+      color: white;
+
+  }
+  .iconresigningfooter{
+      font-size: 2vw;
+  }
+  .HTML{
+      width: 95%;
+      /* border-radius: 1rem; */
+      
+  }
+  .CSS{
+    width: 95%;
+    
+}
+.Bootstrap{
+    width: 95%;
+    
+}
+.Javascript{
+    width: 70%;
+    
+}
+.Angular{
+    width: 60%;
+    
+}
+/* .progress-bar{
+    font-size: 1vw;
+} */
+
+@media only screen and (max-width: 765px) {
+ .detailStyling{
+     font-size: 10vw;
+     /* font-weight: 600; */
+     /* font-family: 'Epilogue' !important */
+ }
+ .imgStyling{
+     width: 84vw;
+
+ }
+ .imgdecoration{
+     width: 90vw;
+ }
+ .nameDecrotion{
+     text-align: center;
+ }
+ .text-contentdecoration{
+     padding: 1rem;
+ }
+ .skillBar{
+     font-size: 3vw;
+ }
+ .imagestylingskill{
+     border-radius: 1rem;
+     width: 91vw !important;
+ }
+ .workingMobile{
+     display: table !important; 
+ }
+ .travo{
+    border-radius: 0.5rem;
+    height: 60vw !important;
+    width: 92vw !important;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ }
+ .formCentering{
+     padding: 0vw 5vw;
+ }
+ .btnMObile{
+     margin-top: 0px!important;
+ }
+ .iconresigningfooter{
+     font-size: 8vw;
+ }
+.btn-styling{
+    width: 32vw;
+    font-size: 4vw;
+}
+
+}
