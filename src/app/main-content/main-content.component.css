@@ -12,6 +12,7 @@
 .imgStyling{
     width: 30vw;
     padding-top: 4vw;
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
 }
 .btn-styling{
     width: 16vw;
@@ -25,6 +26,7 @@
     width: 30vw;
     margin-top: 3vw;
     border-radius: 2rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .nameDecrotion{
     font-weight: 600;
@@ -46,6 +48,8 @@
 }
 .imagestylingskill{
     border-radius: 1.5rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
 }
 .travo{
     border-radius: 2rem ;
@@ -88,14 +92,7 @@ opacity: 0.5;
   .inputStyling{
       border: 2px soild #0D2331 !important;
   }
-  .footerdecoration{
-      background-color:#0D2331;
-      color: white;
-
-  }
-  .iconresigningfooter{
-      font-size: 2vw;
-  }
+ 
   .HTML{
       width: 95%;
       /* border-radius: 1rem; */

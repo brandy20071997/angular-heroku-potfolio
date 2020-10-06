@@ -13,3 +13,8 @@ window.onscroll = function() {
   }
   prevScrollpos = currentScrollPos;
 }
+
+
+// AOS.init({
+//   // duration: 1200,
+// })
