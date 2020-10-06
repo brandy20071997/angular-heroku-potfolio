@@ -88,6 +88,12 @@
       opacity: .02;
      }
 } */
+.closebtn{
+    /* display: none; */
+}
+.notfodesktop{
+    display: none;
+}
 @media only screen and (max-width: 765px) {
     .Stylemob{
         font-size: 5vw;
@@ -100,6 +106,21 @@
         border: 0px solid transparent;
         border-radius: .25rem;
         outline:none; 
+    }
+    .mystyle{
+        display: none;
+    }
+    .closebtn{
+      margin-left: 16rem;
+      
+
+        
+    
+    }
+    .notfodesktop{
+        display: inline-block;
+        position: absolute;
+    right: 10vw;
     }
     
 
