@@ -4,7 +4,11 @@
     padding-left: 9vw;
     padding-top: 4vw;
     color: #0D2331;
+    /* margin-top:5rem; */
 }
+/* .headingDecration{
+    margin-top:2rem;
+} */
 .imgStyling{
     width: 30vw;
     padding-top: 4vw;
@@ -29,6 +33,7 @@
     font-weight: bold;
     color: #4A82FA;
     text-decoration: underline;
+    margin-top:3rem !important
 }
 .progress{
     height: 0.5rem !important;
@@ -105,11 +110,11 @@ opacity: 0.5;
     
 }
 .Javascript{
-    width: 70%;
+    width: 85%;
     
 }
 .Angular{
-    width: 60%;
+    width: 70%;
     
 }
 /* .progress-bar{
@@ -141,6 +146,7 @@ opacity: 0.5;
  .imagestylingskill{
      border-radius: 1rem;
      width: 91vw !important;
+     margin-bottom: 2rem !important;
  }
  .workingMobile{
      display: table !important; 
@@ -165,5 +171,19 @@ opacity: 0.5;
     width: 32vw;
     font-size: 4vw;
 }
+.spacingMobile{
+    margin-top: 1.5rem;
+}
+.headingDecration{
+    margin-bottom: 1.5rem;
+    margin-top:0rem !important;
+}
+.text-contentdecoration{
+   
+    margin-top: 1vw;
 
+}
+.overlay{
+    display: none;
+}
 }

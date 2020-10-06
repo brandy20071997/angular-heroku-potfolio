@@ -22,10 +22,10 @@
     z-index: 1; */
 }
 .navbar-brand {
-    font-weight: 600;
+    font-weight: bold;
     font-size: 2vw;
     color: #0D2332;
-    font-family:Comic Sans, Comic Sans MS, cursive;
+    /* font-family:Comic Sans, Comic Sans MS, cursive; */
 }
 /* .navanimi{
     background: #2B5B89;
